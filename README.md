@@ -1,3 +1,6 @@
+# reactminitask
+in this i practice the concepts of react and practice the small task in react which covered the basics
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
