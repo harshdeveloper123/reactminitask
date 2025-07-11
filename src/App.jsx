@@ -7,6 +7,7 @@ import Task4 from './Components/Task4'
 import Task5 from './Components/Task5'
 import Task6 from './Components/Task6'
 import Task7 from './Components/Task7'
+import Task8 from './Components/Task8'
 
 function App() {
 
@@ -18,7 +19,8 @@ function App() {
       {/* <Task4/> */}
       {/* <Task5/> */}
       {/* <Task6/> */}
-      <Task7/>
+      {/* <Task7/> */}
+      <Task8/>
     </>
   )
 }
